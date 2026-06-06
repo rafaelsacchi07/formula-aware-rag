@@ -7,7 +7,7 @@
 
 **Mitigating Mathematical Context Degradation in Physics Documents Using Formula-Aware Chunking in Retrieval-Augmented Generation (RAG) Architectures.**
 
-This repository contains the source code, evaluation datasets, and final research paper for an undergraduate research project conducted at the **School of Computer Science, Bina Nusantara (BINUS) University**.
+This repository contains the source code, and evaluation datasets for an undergraduate research project conducted at the **School of Computer Science, Bina Nusantara (BINUS) University**.
 
 ## 📖 Project Overview
 Retrieval-Augmented Generation (RAG) is a powerful architecture that grounds Large Language Models (LLMs) with external knowledge. However, applying RAG to STEM (Science, Technology, Engineering, and Mathematics) literature presents a unique challenge: **standard recursive text chunking arbitrarily breaks mathematical formulas and separates them from their explanatory context.** 
